@@ -7,5 +7,6 @@ package com.gmy;
 public class One {
     public static void main(String[] args) {
         System.out.println("hello one");
+        System.out.println("hello one");
     }
 }
