@@ -9,5 +9,8 @@ public class Two {
         System.out.println("two 1");
         System.out.println("two 2");
         System.out.println("two 3");
+        System.out.println("two 4");
+        System.out.println("two 5");
+        System.out.println("two 6");
     }
 }
